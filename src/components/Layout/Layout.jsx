@@ -1,10 +1,12 @@
 import React from 'react';
 
+import * as S from './styles';
+
 const Layout = ({ children }) => (
   <>
-    <main>
+    <S.Content>
       {children}
-    </main>
+    </S.Content>
   </>
 );
 
