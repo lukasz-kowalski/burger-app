@@ -1,7 +1,7 @@
 import React from 'react';
 
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
-import { breadBottom, breadTop, meat, cheese, salad, bacon } from './BurgerIngredient/IngredientsConst';
+import { breadBottom, breadTop } from './BurgerIngredient/IngredientsConst';
 
 import * as S from './styles';
 
